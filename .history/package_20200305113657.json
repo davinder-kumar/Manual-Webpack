@@ -1,0 +1,39 @@
+{
+<<<<<<< HEAD
+  "name": "custom-webpack",
+  "version": "1.0.0",
+  "description": "Creating react like webpack manually",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+=======
+  "name": "manual-webpack",
+  "version": "1.0.0",
+  "description": "Manual Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 9433b79eb8d36275d8b0eacdcb31a65717345906
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davinder-kumar/Manual-Webpack.git"
+  },
+<<<<<<< HEAD
+  "keywords": [
+    "webpack",
+    "manual"
+  ],
+=======
+>>>>>>> 9433b79eb8d36275d8b0eacdcb31a65717345906
+  "author": "Davinder Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davinder-kumar/Manual-Webpack/issues"
+  },
+  "homepage": "https://github.com/davinder-kumar/Manual-Webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-dev-server": "^3.10.3"
+  }
+}

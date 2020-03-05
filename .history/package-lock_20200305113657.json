@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "custom-webpack",
+=======
   "name": "manual-webpack",
+>>>>>>> 9433b79eb8d36275d8b0eacdcb31a65717345906
   "version": "1.0.0",
   "lockfileVersion": 1,
   "requires": true,
